@@ -38,24 +38,3 @@ Preview
 
 **Home View showing list of Launches**
 
-![Home Page Desktop](https://imgur.com/6VXabPm.jpg)
-
-![Home Page Mobile](https://imgur.com/ECVltA1.jpg)
-
-![Home Page Tablet](https://imgur.com/3gAQgu9.jpg)
-
-**Filtering Launches by given custom filters**
-
-![Filter by year](https://imgur.com/qwH1RPb.jpg)
-
-![Filter by successfull launches](https://imgur.com/t9iWGtT.jpg)
-
-![Filter by successfull launches and successfull land](https://imgur.com/BIOgDFN.jpg)
-
-![Filter by successfull launches and successfull land and year](https://imgur.com/KSovVdT.jpg)
-
-![No Record Found](https://imgur.com/vQSIY2h.jpg)
-
-
-Live Preview https://spacex-launches-assignment.herokuapp.com/
-
