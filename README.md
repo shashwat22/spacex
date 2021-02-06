@@ -31,12 +31,6 @@ Run Project(CSR)
 * ``run npm start``
 * ``open app in browser using url http://localhost:4200``
 
-Run Project(SSR)
-------------------------------
-* run command ``git clone https://github.com/Manpal-Singh/spacex-launches.git``
-* ``cd project folder``
-* ``npm run build:ssr && npm run serve:ssr``
-* ``open app in browser using url http://localhost:4000``
 
 
 Preview
