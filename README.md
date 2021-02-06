@@ -11,7 +11,6 @@ Features
 * Server side rendering(SSR) implementation.
 * Updating view without refreshing browser.
 * Chaning url with refreshing browser
-* Deployed on Heroku. (url==>  https://spacex-launches-assignment.herokuapp.com/).
 
 
 Requirements
@@ -26,9 +25,9 @@ Requirements
 
 Run Project(CSR)
 ------------------------------
-* run command ``git clone https://github.com/Manpal-Singh/spacex-launches.git``
+* run command ``https://github.com/shashwat22/spacex.git``
 * ``cd project folder``
-* ``run npm start``
+* ``npm run start``
 * ``open app in browser using url http://localhost:4200``
 
 
